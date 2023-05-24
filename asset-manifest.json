@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fuhsa-jobs/static/css/main.9d980f8c.css",
-    "main.js": "/fuhsa-jobs/static/js/main.bffec63e.js",
+    "main.css": "/fuhsa-jobs/static/css/main.2022687a.css",
+    "main.js": "/fuhsa-jobs/static/js/main.79db7b73.js",
     "index.html": "/fuhsa-jobs/index.html",
-    "main.9d980f8c.css.map": "/fuhsa-jobs/static/css/main.9d980f8c.css.map",
-    "main.bffec63e.js.map": "/fuhsa-jobs/static/js/main.bffec63e.js.map"
+    "main.2022687a.css.map": "/fuhsa-jobs/static/css/main.2022687a.css.map",
+    "main.79db7b73.js.map": "/fuhsa-jobs/static/js/main.79db7b73.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d980f8c.css",
-    "static/js/main.bffec63e.js"
+    "static/css/main.2022687a.css",
+    "static/js/main.79db7b73.js"
   ]
 }
